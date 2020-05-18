@@ -1,2 +1,3 @@
 # How-i-remember
-tutorial repository
+
+Hi! I'm Gyeong
